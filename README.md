@@ -1,7 +1,7 @@
 # Setup test SDP
 This repository contains a simple example that enables you to test if the **IntelliJ** IDE works correctly. 
 
-* You can import the project directly from a **V**ersion **C**ontrol **S**ystem, by providing the following URL: 
+* You can import the project directly from a *Version Control System*, by providing the following URL: 
 https://ewserver.di.unimi.it/gitlab/riccardopresotto/setup_test_sdp.git
 
 <img src = './assets/img_1.png'>
