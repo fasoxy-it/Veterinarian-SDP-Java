@@ -8,7 +8,7 @@ public class MultiServer {
 
         WaitingRoom waitingRoom = new WaitingRoom();
 
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 10; i++) {
 
             Random random = new Random();
             int randomInteger = random.nextInt(2);

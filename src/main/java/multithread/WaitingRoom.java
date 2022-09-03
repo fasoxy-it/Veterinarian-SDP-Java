@@ -11,7 +11,7 @@ public class WaitingRoom {
                 while (isCatPresent || dogCounter > 0) {
                     System.out.println("cat " + Thread.currentThread().getName() + " waits...");
                     wait();
-                    System.out.println("cat " + Thread.currentThread().getName() + " retires!");
+                    System.out.println("cat " + Thread.currentThread().getName() + " retries!");
                 }
                 isCatPresent = true;
             case ServerThread.DOG_IDENTIFIER:
